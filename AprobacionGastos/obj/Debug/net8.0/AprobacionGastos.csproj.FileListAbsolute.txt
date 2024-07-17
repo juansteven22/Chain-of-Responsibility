@@ -1,0 +1,14 @@
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\bin\Debug\net8.0\AprobacionGastos.exe
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\bin\Debug\net8.0\AprobacionGastos.deps.json
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\bin\Debug\net8.0\AprobacionGastos.runtimeconfig.json
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\bin\Debug\net8.0\AprobacionGastos.dll
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\bin\Debug\net8.0\AprobacionGastos.pdb
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\AprobacionGastos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\AprobacionGastos.AssemblyInfoInputs.cache
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\AprobacionGastos.AssemblyInfo.cs
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\AprobacionGastos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\AprobacionGastos.dll
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\refint\AprobacionGastos.dll
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\AprobacionGastos.pdb
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\AprobacionGastos.genruntimeconfig.cache
+C:\Users\Juan Steven\Desktop\.NET\Chain of Responsibility\Proyecto 1\AprobacionGastos\obj\Debug\net8.0\ref\AprobacionGastos.dll

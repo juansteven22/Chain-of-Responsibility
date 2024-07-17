@@ -1,0 +1,5 @@
+New-Item -ItemType Directory -Path "AprobacionGastos"
+Set-Location -Path "AprobacionGastos"
+dotnet new console
+New-Item -ItemType Directory -Path "Handlers"
+New-Item -ItemType Directory -Path "Models"

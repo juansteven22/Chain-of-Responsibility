@@ -1,0 +1,14 @@
+AprobacionGastos/
+│
+├── Program.cs
+├── AprobacionGastos.csproj
+│
+├── Handlers/
+│   ├── IHandler.cs
+│   ├── AprobadorBase.cs
+│   ├── GerenteHandler.cs
+│   ├── DirectorHandler.cs
+│   └── PresidenteHandler.cs
+│
+└── Models/
+    └── SolicitudGasto.cs

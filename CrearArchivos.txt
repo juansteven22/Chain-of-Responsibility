@@ -1,0 +1,6 @@
+New-Item -ItemType File -Path "Handlers\IHandler.cs"
+New-Item -ItemType File -Path "Handlers\AprobadorBase.cs"
+New-Item -ItemType File -Path "Handlers\GerenteHandler.cs"
+New-Item -ItemType File -Path "Handlers\DirectorHandler.cs"
+New-Item -ItemType File -Path "Handlers\PresidenteHandler.cs"
+New-Item -ItemType File -Path "Models\SolicitudGasto.cs"
